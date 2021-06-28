@@ -9,7 +9,7 @@ class Script(object):
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+
 
 
 <b>Basic Commands;</b>
