@@ -244,7 +244,7 @@ async def help(client, message):
             [
                 [
                     InlineKeyboardButton("My Dev 🇨🇮", url="https://t.me/FILMWORLDOFFICIA"),
-                    InlineKeyboardButton("⭕️CHANNEL⭕️", url="about_data")
+                    InlineKeyboardButton("⭕️CHANNEL⭕️", url="https://t.me/joinchat/VtTZc5al3Vt0te9_)
                 ],
                 [
                     InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
