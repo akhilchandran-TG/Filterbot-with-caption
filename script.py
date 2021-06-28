@@ -12,37 +12,49 @@ class Script(object):
 
 
 
-<b>Basic Commands;</b>
+OUR CHANNEL LIST
 
-/start - Check if I'm alive!
-/help - Command help
-/about - Something about me!
+👉 FOR MOVIES IN ANY LANGUGES - https://t.me/joinchat/VtTZc5al3Vt0te9_
 
+👉 FOR 400MB MOVIES - https://t.me/joinchat/S9fo_XWaOl111HlD
 
-<b>Filter Commands;</b>
+👉 FOR ENGLISH MOVIES - https://t.me/joinchat/VvtBtkgUI92WNYss
 
-<code>/add name reply</code>  -  Add filter for name
+👉 FOR TV SERIES AND MOVIE SERIES - https://t.me/joinchat/R5wnoclbG6Bcgyk8
 
-<code>/del name</code>  -  Delete filter
+👉 FOR TELEGRAM RARE MOVIES - https://t.me/joinchat/Tgp_Jh86UkvQ3Uls
 
-<code>/delall</code>  -  Delete entire filters (Group Owner Only!)
+🧿OTT RELEASE - https://t.me/joinchat/AAAAAE6LGrdDWPokMb_NKA
 
-<code>/viewfilters</code>  -  List all filters in chat
+⭕️ PUBLIC CHANNAL ⭕️ - @FW_LIBRARI
 
-
-<b>Connection Commands;</b>
-
-<code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
-<code>/connect</code> in groups.
-
-<code>/connections</code>  -  Manage your connections.
+✅ VERIFIED GROUP ✅ - https://t.me/joinchat/-3Vjw61udNM3OWU9
 
 
-<b>Extras;</b>
 
-/status  -  Shows current status of your bot (Auth User Only)
 
-/id  -  Shows ID information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <b>© TEAM FILM WORLD</b>
 """
