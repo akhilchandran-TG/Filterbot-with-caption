@@ -217,7 +217,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Command Help", callback_data="help_data")
+                    InlineKeyboardButton("TEAM FILM WORLD", callback_data="help_data")
                 ]
             ]
         ),
@@ -243,7 +243,7 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("My Dev 🇨🇮", url="https://t.me/FILMWORLDOFFICIA"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
