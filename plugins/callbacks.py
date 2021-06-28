@@ -47,8 +47,8 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🧿GROUP🧿", url="https://youtu.be/hkmc3e7U7R4"),
-                    InlineKeyboardButton("⭕CHANNEL⭕", 
+                    InlineKeyboardButton("🧿GROUP🧿", url="httpsabcdfhkl"),
+                    InlineKeyboardButton("⭕CHANNEL⭕", url="
                 ],
                 [
                     InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
