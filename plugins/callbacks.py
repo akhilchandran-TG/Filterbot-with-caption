@@ -48,7 +48,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton("🧿GROUP🧿", url="https://youtu.be/hkmc3e7U7R4"),
-                    InlineKeyboardButton("⭕CHANNEL⭕", callback_data="about_data")
+                    InlineKeyboardButton("⭕CHANNEL⭕", 
                 ],
                 [
                     InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
