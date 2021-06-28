@@ -44,9 +44,6 @@ class Script(object):
 
 /id  -  Shows ID information
 
-<code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
-
-
 <b>© TEAM FILM WORLD</b>
 """
 
